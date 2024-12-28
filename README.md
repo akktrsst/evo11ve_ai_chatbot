@@ -77,7 +77,7 @@ A Streamlit-based conversational chatbot designed to help students interact with
 
 ---
 
-## 🖥️ Streamlit App Features
+## 🖥️ Streamlit App 
 
 ![Streamlit App Link](https://evo11veai.streamlit.app/)
 
