@@ -12,7 +12,7 @@ try:
     openai_api_key = os.getenv("OPENAI_API_KEY")
 except:
     openai_api_key = os.environ.get("OPENAI_API_KEY")
-print(openai_api_key)
+    
 
 # Function to get text from uploaded PDFs
 def get_pdf_text(pdf_docs):
@@ -42,14 +42,9 @@ def get_vector_store(text_chunks):
 
 # Function to update the conversation history
 def update_conversation_history(user_question, assistant_response, max_turns=5):
-    # Initialize conversation history if not already done
     if 'conversation_history' not in st.session_state:
         st.session_state.conversation_history = []
-
-    # Append new user query and assistant response
     st.session_state.conversation_history.append({"user": user_question, "assistant": assistant_response})
-    
-    # Limit conversation history size to max_turns
     if len(st.session_state.conversation_history) > max_turns:
         st.session_state.conversation_history.pop(0)
 
@@ -101,10 +96,8 @@ def user_input(user_question):
 
     # Build conversation history string
     history = "\n".join([f"User: {turn['user']}\nAssistant: {turn['assistant']}" for turn in st.session_state.get('conversation_history', [])])
-
     chain = get_conversational_chain()
     response = chain({"input_documents": docs, "history": history, "user_question": user_question}, return_only_outputs=True)
-
     assistant_response = response["output_text"]
     
     update_conversation_history(user_question, assistant_response)

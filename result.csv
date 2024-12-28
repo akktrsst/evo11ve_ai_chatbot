@@ -1,0 +1,41 @@
+,Question,Response,Expected Contextual,Is Contextual
+0,What is the focal length of a convex lens with a radius of curvature of 20 cm?,Your curriculum does not have the information about the focal length of a convex lens with a radius of curvature of 20 cm. Please ask questions within the curriculum.,True,False
+1,Define the principal focus of a concave mirror.,"The principal focus of a concave mirror is the point on the principal axis where reflected rays converge after striking the mirror. It is represented by the letter F. When parallel rays of light strike a concave mirror, they reflect and meet at this point.",True,True
+2,Why do convex mirrors provide a wider field of view?,"Convex mirrors provide a wider field of view because they are curved outwards, allowing them to capture and reflect light from a larger area compared to flat mirrors. This characteristic enables drivers to see a much larger area behind them, which is essential for safe driving.",True,True
+3,How does a concave mirror form a real image?,"A concave mirror forms a real image when the object is placed beyond the center of curvature (C). In this case, the rays of light that are parallel to the principal axis converge after reflection and meet at a point, forming a real image. This image is inverted and can be projected onto a screen. The size of the image can vary depending on the object's distance from the mirror.",True,True
+4,What is the power of a lens with a focal length of 50 cm?,"The power \( P \) of a lens is given by the formula \( P = \frac{1}{f} \), where \( f \) is the focal length in meters. For a lens with a focal length of 50 cm (which is 0.50 m), the power would be:
+
+\[
+P = \frac{1}{0.50} = 2 \, \text{D}
+\]
+
+So, the power of the lens is 2 diopters (D).",True,True
+5,Explain the relationship between the radius of curvature and the focal length of a mirror.,"The relationship between the radius of curvature (R) and the focal length (f) of a spherical mirror is given by the formula R = 2f. This means that the radius of curvature is equal to twice the focal length. Consequently, the principal focus of a spherical mirror lies midway between the pole and the center of curvature.",True,True
+6,What are the two laws of reflection?,"The two laws of reflection are:
+(i) The angle of incidence is equal to the angle of reflection.
+(ii) The incident ray, the normal to the mirror at the point of incidence, and the reflected ray all lie in the same plane.",True,True
+7,How is the refractive index related to the speed of light?,"The refractive index of a medium is the ratio of the speed of light in vacuum to the speed of light in that medium. It can be expressed in equation form as:
+
+\[ n = \frac{c}{v} \]
+
+where \( n \) is the refractive index, \( c \) is the speed of light in vacuum, and \( v \) is the speed of light in the medium. This relationship shows that as the speed of light decreases in a medium, the refractive index increases.",True,True
+8,What happens to light when it moves from air to water?,"When light moves from air (a rarer medium) to water (a denser medium), it slows down and bends towards the normal. This bending occurs due to the change in the speed of light as it enters the denser medium.",True,True
+9,List some uses of convex lenses.,"Convex lenses are commonly used in various applications, including:
+
+1. **Cameras**: They help in focusing light to capture clear images.
+2. **Microscopes**: They magnify small objects for detailed observation.
+3. **Telescopes**: They are used to gather and focus light from distant celestial objects.
+4. **Eyeglasses**: Convex lenses correct hyperopia (farsightedness) by converging light rays.
+5. **Projectors**: They focus light to project images onto a screen.
+
+These uses highlight the importance of convex lenses in optical devices.",True,True
+10,Who discovered the laws of reflection?,Your curriculum does not have the information about who discovered the laws of reflection. Please ask questions within the curriculum.,False,False
+11,What is quantum theory?,Your curriculum does not have the information about quantum theory. Please ask questions within the curriculum.,False,False
+12,How does a telescope work?,Your curriculum does not have the information about how a telescope works. Please ask questions within the curriculum.,False,False
+13,What is the speed of light in a vacuum in miles per second?,Your curriculum does not have the information about the speed of light in a vacuum in miles per second. Please ask questions within the curriculum.,False,False
+14,Can a plane mirror form a magnified image?,"A plane mirror cannot form a magnified image. The magnification produced by a plane mirror is +1, which means that the size of the image is equal to the size of the object. The image is virtual, erect, and laterally inverted, but it is not magnified.",False,True
+15,What is the history of concave mirrors?,Your curriculum does not have the information about the history of concave mirrors. Please ask questions within the curriculum.,False,False
+16,How does diffraction affect light?,"Diffraction is the bending of light around the edges of an opaque object. When light encounters a very small opaque object, it tends to bend around it rather than traveling in a straight line. This phenomenon indicates that light does not always travel in the same direction and can be affected by obstacles in its path.",False,True
+17,What are the applications of fiber optics?,Your curriculum does not have the information about fiber optics. Please ask questions within the curriculum.,False,False
+18,What is the cost of a convex mirror?,Your curriculum does not have the information about the cost of a convex mirror. Please ask questions within the curriculum.,False,False
+19,How do prisms split light into colors?,Your curriculum does not have the information about how prisms split light into colors. Please ask questions within the curriculum.,False,False
