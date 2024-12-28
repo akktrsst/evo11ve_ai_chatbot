@@ -12,7 +12,7 @@ try:
     openai_api_key = os.getenv("OPENAI_API_KEY")
 except:
     openai_api_key = os.environ.get("OPENAI_API_KEY")
-
+print(openai_api_key)
 
 # Function to get text from uploaded PDFs
 def get_pdf_text(pdf_docs):
