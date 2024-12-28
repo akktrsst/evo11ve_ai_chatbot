@@ -73,7 +73,7 @@ A Streamlit-based conversational chatbot designed to help students interact with
 
 ## 📹 Demo Video
 
-[![Demo Video](https://github.com/akktrsst/evo11ve_ai_chatbot/blob/master/img/demo.mp4)]
+[![Demo Video](https://github.com/akktrsst/evo11ve_ai_chatbot/blob/master/img/demo_thumbnail.jpg)](https://github.com/akktrsst/evo11ve_ai_chatbot/raw/master/img/demo.mp4)
 
 ---
 
