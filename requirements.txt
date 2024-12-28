@@ -3,4 +3,5 @@ python-dotenv
 langchain
 PyPDF2
 faiss-cpu
-langchain_openai
+langchain-openai
+langchain-community
