@@ -1,12 +1,12 @@
-# 📚 NCERT Book Chatbot 🤖
+# 📚 NCERT/CBSE Book Chatbot 🤖
 
-A Streamlit-based conversational chatbot designed to help students interact with NCERT curriculum-based chapters. Upload PDF books, ask questions, and get precise answers directly from the uploaded chapter content. The chatbot ensures it stays within the context of the uploaded material and helps students focus on their syllabus.
+A Streamlit-based conversational chatbot designed to help students interact with NCERT/CBSE curriculum-based chapters. Upload PDF books, ask questions, and get precise answers directly from the uploaded chapter content. The chatbot ensures it stays within the context of the uploaded material and helps students focus on their syllabus.
 
 ---
 
 ## 🚀 Features
 
-- **PDF Upload Support**: Upload NCERT books or specific chapters in PDF format.
+- **PDF Upload Support**: Upload NCERT/CBSE books or specific chapters in PDF format.
 - **Text Extraction**: Extracts and processes text from uploaded PDFs.
 - **Conversational Chatbot**: Engages in a conversation while keeping answers strictly within the curriculum.
 - **Vector Search with FAISS**: Finds the most relevant text chunks to answer user questions.

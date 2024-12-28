@@ -107,8 +107,8 @@ def user_input(user_question):
 
 # Main Streamlit app
 def main():
-    st.set_page_config(page_title="NCERT Book Chatbot", page_icon="📚")
-    st.title("📚 NCERT Book Chatbot 🤖")
+    st.set_page_config(page_title="NCERT/CBSE Book Chatbot", page_icon="📚")
+    st.title("📚 NCERT/CBSE Book Chatbot 🤖")
 
     # Sidebar for PDF upload
     with st.sidebar:
