@@ -77,6 +77,13 @@ A Streamlit-based conversational chatbot designed to help students interact with
 
 ---
 
+## 🖥️ Streamlit App Features
+
+![Streamlit App Link](https://evo11veai.streamlit.app/)
+
+## 📚 Download NCERT Book's Chapters
+![NCERT Book Link](https://ncert.nic.in/textbook.php?)
+
 ## ⚙️ How It Works
 
 1. **Upload PDFs**: Users upload NCERT books or chapters via the sidebar.
