@@ -79,10 +79,10 @@ A Streamlit-based conversational chatbot designed to help students interact with
 
 ## 🖥️ Streamlit App 
 
-![Streamlit App Link](https://evo11veai.streamlit.app/)
+[Streamlit App Link](https://evo11veai.streamlit.app/)
 
 ## 📚 Download NCERT Book's Chapters
-![NCERT Book Link](https://ncert.nic.in/textbook.php?)
+[NCERT Book Link](https://ncert.nic.in/textbook.php?)
 
 ## ⚙️ How It Works
 
